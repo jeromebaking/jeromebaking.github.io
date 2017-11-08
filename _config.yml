@@ -9,8 +9,8 @@ collections:
     title: Uploads
     output: true
 email: ambardekarsahil@gmail.com
-description: A place to bake some foodstuffs
-baseurl: ''
+description: A place to bake and destress
+baseurl: 
 url: http://jeromebaking.com
 paginate: 5
 theme-dark: false
