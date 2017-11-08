@@ -1,19 +1,20 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
+---
 title: Jerome Baking Club
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: ambardekarsahil@gmail.com
 description: A place to bake some foodstuffs
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://jeromebaking.com" # the base hostname & protocol for your site
+baseurl: ''
+url: http://jeromebaking.com
 paginate: 5
-theme-dark: false #Set to true to change to dark website theme
-
-gems: [jekyll-paginate, kramdown]
-# Build settings
+theme-dark: false
+gems:
+- jekyll-paginate
+- kramdown
 markdown: kramdown
