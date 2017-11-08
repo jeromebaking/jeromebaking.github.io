@@ -11,8 +11,8 @@ Join our remind: @djhsbake
 **Officers**   
 [Andrew Shen
 ](mailto:19shen_andrew@dublinstudents.net)   
-[Eva Hu](19hu_eva@dublinstudents.net)   
-[Ria Jotsinghani](19jotsinghani_ria@dublinstudents.net)   
-[Eric Lin](19lin_eric@dublinstudents.net)   
-[Jenny Yang](19jenny_yang@dublinstudents.net)   
-[Sahil Ambardekar](19ambardekar_sahil@dublinstudents.net)
+[Eva Hu](mailto:19hu_eva@dublinstudents.net)   
+[Ria Jotsinghani](mailto:19jotsinghani_ria@dublinstudents.net)   
+[Eric Lin](mailto:19lin_eric@dublinstudents.net)   
+[Jenny Yang](mailto:19jenny_yang@dublinstudents.net)   
+[Sahil Ambardekar](mailto:19ambardekar_sahil@dublinstudents.net)
