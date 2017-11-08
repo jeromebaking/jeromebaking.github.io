@@ -1,6 +1,7 @@
 ---
 title: Photos from making cupcakes
 date: 2017-11-08 01:25:00 Z
+layout: page
 ---
 
 ![IMG_1335.jpeg](/uploads/IMG_1335.jpeg)
