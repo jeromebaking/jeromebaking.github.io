@@ -4,6 +4,7 @@ date: 2017-11-08 01:25:00 Z
 layout: page
 ---
 
+Some photos from the last meeting    
 ![IMG_1335.jpeg](/uploads/IMG_1335.jpeg)
 ![IMG_1336.jpeg](/uploads/IMG_1336.jpeg)
 ![IMG_1338.jpeg](/uploads/IMG_1338.jpeg)
