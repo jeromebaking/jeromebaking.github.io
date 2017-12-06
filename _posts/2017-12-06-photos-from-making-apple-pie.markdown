@@ -6,6 +6,6 @@ layout: page
 
 Here are some photos from the last meeting
 
-[IMG_2351.JPG](/uploads/IMG_2351.JPG)
-[IMG_2354.JPG](/uploads/IMG_2354.JPG)
-[IMG_3448.JPG](/uploads/IMG_3448.JPG)
+![IMG_2351.JPG](/uploads/IMG_2351.JPG)
+![IMG_2354.JPG](/uploads/IMG_2354.JPG)
+![IMG_3448.JPG](/uploads/IMG_3448.JPG)
