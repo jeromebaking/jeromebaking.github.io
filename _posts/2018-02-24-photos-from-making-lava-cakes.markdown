@@ -6,8 +6,8 @@ layout: page
 
 Here are some photos from the last meeting
 
-![IMG_2682.JPG](/uploads/IMG_2682.JPG)
-![IMG_2679.JPG](/uploads/IMG_2679.JPG)
+![IMG_2682.jpeg](/uploads/IMG_2682.jpeg)
+![IMG_2679.jpeg](/uploads/IMG_2679.jpeg)
 ![IMG_3725.JPG](/uploads/IMG_3725.JPG)
 ![IMG_3723.JPG](/uploads/IMG_3723.JPG)
 ![IMG_3726.JPG](/uploads/IMG_3726.JPG)
